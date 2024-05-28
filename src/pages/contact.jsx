@@ -42,13 +42,6 @@ const Contact = () => {
 						<div className="title contact-title">
 							Let's Get in Touch: Ways to Connect with Me
 						</div>
-
-						<div className="subtitle contact-subtitle">
-							Thank you for your interest! I welcome your feedback, questions, and suggestions. Feel free to email me directly at <a href={`mailto:${INFO.main.email}`}>{INFO.main.email}</a>. I strive to respond within 24 hours, though it may take longer during busy periods.
-							For social media connections, find me on 
-							<a href={INFO.socials.instagram} target="_blank" rel="noreferrer">{INFO.socials.instagram}</a>.
-							Thanks again for reaching out. I look forward to hearing from you!
-						</div>
 					</div>
 					<div className="socials-container">
 						<div className="contact-socials">
