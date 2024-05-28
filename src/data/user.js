@@ -1,83 +1,67 @@
 const INFO = {
 	main: {
-		title: "Reactfolio by truethari",
-		name: "Tharindu N.",
-		email: "mail@tharindu.dev",
+		title: "Muhmmad Abrar",
+		name: "Muhmmad Abrar R",
+		email: "muhmmadabrar159@gmail.com",
 		logo: "../logo.png",
 	},
 
 	socials: {
-		twitter: "https://twitter.com/",
-		github: "https://github.com/",
-		linkedin: "https://linkedin.com/",
-		instagram: "https://instagram.com/",
-		stackoverflow: "https://stackoverflow.com/",
-		facebook: "https://facebook.com/",
+		twitter: "https://twitter.com/iMuhmmadAbrar",
+		github: "https://github.com/MuhmmadAbrar",
+		linkedin: "https://linkedin.com/in/muhmmadabrar",
+		instagram: "https://instagram.com/imuhmmadabrar",
 	},
 
 	homepage: {
-		title: "Full-stack web and mobile app developer, and amateur astronaut.",
+		title: "Full-stack web app developer, and a Machine Learning Enthusiast.",
 		description:
-			"I am a backend developer with expertise in Node.js. I have experience in building scalable, secure and reliable web applications using various frameworks and technologies. I enjoy solving complex problems and learning new skills. I am passionate about creating high-quality code that follows best practices and industry standards. I am always looking for new challenges and opportunities to grow as a developer.",
+			"I am a frontend developer specializing in ReactJS, with a proven track record in building scalable, secure, and reliable web applications. My expertise spans various frameworks and technologies, enabling me to tackle complex problems and continuously learn new skills. I am dedicated to producing high-quality code that adheres to best practices and industry standards. Passionate about my craft, I am always seeking new challenges and opportunities to grow as a developer.",
 	},
 
 	about: {
-		title: "I’m Tharindu N. I live in Sri Lanka, where I design the future.",
+		title: "I'm Muhmmad Abrar R. I live in Chennai, India.",
 		description:
-			"I've worked on a variety of projects over the years and I'm proud of the progress I've made. Many of these projects are open-source and available for others to explore and contribute to. If you're interested in any of the projects I've worked on, please feel free to check out the code and suggest any improvements or enhancements you might have in mind. Collaborating with others is a great way to learn and grow, and I'm always open to new ideas and feedback.",
-	},
-
-	articles: {
-		title: "I'm passionate about pushing the boundaries of what's possible and inspiring the next generation of innovators.",
-		description:
-			"Chronological collection of my long-form thoughts on programming, leadership, product design, and more.",
+			"I've worked on diverse projects over the years, many of which are open-source and open for exploration and contributions. If you're interested, please check out the code and suggest any improvements or enhancements. Collaboration is a fantastic way to learn and grow, and I'm always open to new ideas and feedback.",
 	},
 
 	projects: [
 		{
-			title: "Project 1",
+			title: "Website for Social Entrepreneurship Club",
 			description:
-				"Lorem ipsum dolor sit amet. Et incidunt voluptatem ex tempore repellendus qui dicta nemo sit deleniti minima.",
-			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png",
+				"Developed a fully functioning front-end website for my club Centre for Social Entrepreneurship and Development CSED VITC.",
+			logo: "https://img.icons8.com/?size=100&id=bzf0DqjXFHIW&format=png&color=000000",
 			linkText: "View Project",
-			link: "https://github.com",
+			link: "https://csedvitc.vercel.app/",
 		},
 
 		{
-			title: "Project 2",
+			title: "DroneGuard - A Geospatial Flood Surveillance System",
 			description:
-				"Lorem ipsum dolor sit amet. Et incidunt voluptatem ex tempore repellendus qui dicta nemo sit deleniti minima.",
-			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/python/python.png",
+				"This Streamlit application combines drone image stitching to generate comprehensive maps with advanced image segmentation techniques.",
+			logo: "https://img.icons8.com/?size=100&id=LeBP6BzqkV4k&format=png&color=000000",
 			linkText: "View Project",
-			link: "https://github.com",
+			link: "https://github.com/MuhmmadAbrar/DroneGuard",
 		},
 
 		{
-			title: "Project 3",
+			title: "Animal Intrusion Detection System",
 			description:
-				"Lorem ipsum dolor sit amet. Et incidunt voluptatem ex tempore repellendus qui dicta nemo sit deleniti minima.",
-			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/html/html.png",
+				"A real-time animal monitoring and intrusion alarm system that detects the intrusion of wild animals in an observed environment.",
+			logo: "https://img.icons8.com/?size=100&id=101717&format=png&color=000000",
 			linkText: "View Project",
-			link: "https://github.com",
+			link: "https://github.com/MuhmmadAbrar/Animal-intrusion-detection",
 		},
 
 		{
-			title: "Project 4",
+			title: "Alzheimers Predictor using VGG-16",
 			description:
-				"Lorem ipsum dolor sit amet. Et incidunt voluptatem ex tempore repellendus qui dicta nemo sit deleniti minima.",
-			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png",
+				"This applications analyzes uploaded MRI scans for determining the presence or absence of Alzheimer’s disease.",
+			logo: "https://img.icons8.com/?size=100&id=UTiQeZ6ZsTfL&format=png&color=000000",
 			linkText: "View Project",
-			link: "https://github.com",
+			link: "https://github.com/MuhmmadAbrar/Azheimer-predictor",
 		},
 
-		{
-			title: "Project 5",
-			description:
-				"Lorem ipsum dolor sit amet. Et incidunt voluptatem ex tempore repellendus qui dicta nemo sit deleniti minima.",
-			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png",
-			linkText: "View Project",
-			link: "https://github.com",
-		},
 	],
 };
 
