@@ -69,6 +69,28 @@
 	display: none;
 }
 
+.about-skills{
+	flex-basis: 600px;
+	padding-top:30px;
+}
+
+.table-container {
+	overflow-x: auto;
+}
+table {
+	width: 100%;
+	border-collapse: collapse;
+}
+th, td {
+	padding: 8px;
+	text-align: left;
+	border-bottom: 1px solid #ddd;
+}
+th {
+	background-color: #f2f2f2;
+	font-weight: bold;
+}
+
 @media (max-width: 1024px) {
 	.about-logo {
 		z-index: 100;
@@ -104,6 +126,12 @@
 		padding-top: 30px;
 		display: flex;
 	}
+
+	.about-skills{
+		flex-basis: auto;
+		margin-left: -25px;
+		margin-right: -25px;
+	}
 }
 
 @media (max-width: 600px) {
@@ -113,5 +141,27 @@
 
 	.about-image-container {
 		width: 80%;
+	}
+	th, td {
+		display: block;
+		width: 100%;
+		box-sizing: border-box;
+	}
+	th {
+		background-color: transparent;
+		font-weight: normal;
+		padding-top: 10px;
+	}
+	td {
+		padding-left: 50%;
+		text-align: right;
+		position: relative;
+	}
+	td:before {
+		content: attr(data-title);
+		position: absolute;
+		left: 10px;
+		font-weight: bold;
+		text-align: left;
 	}
 }

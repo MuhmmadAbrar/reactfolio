@@ -16,13 +16,13 @@ const INFO = {
 	homepage: {
 		title: "Full-stack web app developer, and a Machine Learning Enthusiast.",
 		description:
-			"I am a frontend developer specializing in ReactJS, with a proven track record in building scalable, secure, and reliable web applications. My expertise spans various frameworks and technologies, enabling me to tackle complex problems and continuously learn new skills. I am dedicated to producing high-quality code that adheres to best practices and industry standards. Passionate about my craft, I am always seeking new challenges and opportunities to grow as a developer.",
+			"I am Muhmmad Abrar, a Computer Science and Engineering student at VIT Chennai, specializing in AI and Robotics. With a solid academic background and hands-on experience, I excel in machine learning, web development, and deep learning. I am also a frontend developer specializing in ReactJS, with a proven track record in building scalable, secure, and reliable web applications. My expertise spans various frameworks and technologies, enabling me to tackle complex problems and continuously learn new skills. ",
 	},
 
 	about: {
 		title: "I'm Muhmmad Abrar R. I live in Chennai, India.",
 		description:
-			"I've worked on diverse projects over the years, many of which are open-source and open for exploration and contributions. If you're interested, please check out the code and suggest any improvements or enhancements. Collaboration is a fantastic way to learn and grow, and I'm always open to new ideas and feedback.",
+			"I'm a dedicated Computer Science and Engineering student specializing in AI and Robotics at Vellore Institute of Technology, Chennai. With a strong academic record and practical experience, I have contributed to various innovative projects and research in the field of AI. My work includes developing machine learning applications for edge devices, web development, and deep learning models for medical imaging. My passion for technology extends beyond academics, as evidenced by my leadership role in promoting social entrepreneurship at my university. I am skilled in multiple programming languages and frameworks, continually seeking opportunities to apply my knowledge to solve real-world problems.",
 	},
 
 	projects: [
